@@ -1,0 +1,75 @@
+[dohtml]
+
+<style>
+@import url('https://greenberryhair.github.io/cin-plotter/cin-tracker.css?v=1');
+</style>
+
+<div class="cin-thread-list">
+
+    <div class="cin-thread-list-head">
+        <div class="cin-thread-list-title">
+            Cindie's Threads
+        </div>
+
+        <div class="cin-thread-list-subtitle">
+            Current • Completed • Everything In Between
+        </div>
+    </div>
+
+    <div class="cin-thread-columns">
+        <div>Status</div>
+        <div>Thread</div>
+        <div>My Character(s)</div>
+        <div>Writing With</div>
+    </div>
+
+    <div class="cin-thread-list-body">
+
+        <div class="cin-thread-row open">
+
+            <div>
+                <span class="cin-thread-status">Open</span>
+            </div>
+
+            <div>
+                <a class="cin-thread-title"
+                   href="THREAD-URL">
+                    THREAD TITLE
+                </a>
+            </div>
+
+            <div class="cin-thread-character-list">
+
+                <span class="cin-thread-character">
+                    [/dohtml]@[YOUR CHARACTER][dohtml]
+                </span>
+
+            </div>
+
+            <div class="cin-thread-partner-list">
+
+                <span class="cin-thread-partner">
+                    WRITING WITH
+                </span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="cin-thread-list-footer">
+
+        <a href="https://samwashsoa.jcink.net/index.php?act=ST&amp;f=54&amp;t=98&amp;st=0#entry221">
+            Who Plays Who
+        </a>
+
+        &nbsp; • &nbsp;
+
+        Cindie's Thread Tracker
+
+    </div>
+
+</div>
+
+[/dohtml]
