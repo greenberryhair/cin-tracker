@@ -1,7 +1,7 @@
 [dohtml]
 
 <style>
-@import url('https://greenberryhair.github.io/cin-plotter/cin-tracker.css?v=1');
+@import url('https://greenberryhair.github.io/cin-tracker/cin-tracker.css?v=1');
 </style>
 
 <div class="cin-thread-list">
